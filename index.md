@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/alan2103/jsonapi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alan2103/jsonapi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[
+    {
+        id: 1,
+        img:"https://cf.shopee.co.id/file/1921196cad42ec28e97fd4fe2215b3c7"
+    },
+    {
+        id: 2,
+        img:"https://cf.shopee.co.id/file/8f1029a395129ab801274cbc02496d46"
+    },
+    {
+        id: 3,
+        img:"https://cf.shopee.co.id/file/425b458b83c79e1725244941e68d08b0"
+    },
+    {
+        id: 4,
+        img:"https://cf.shopee.co.id/file/d9bc64920074655504e8770647069fab"
+    },
+    {
+        id: 5,
+        img:"https://cf.shopee.co.id/file/82d45a07a547ec4685cc3b2ba3c7c425"
+    },
+    {
+        id: 6,
+        img:"https://cf.shopee.co.id/file/0f8836c233bacc6b7690bb596436012b"
+    },
+    {
+        id: 7,
+        img:"https://cf.shopee.co.id/file/b5f25eb3f03d3ff3d5d3925692b742b8"
+    },
+    {
+        id: 8,
+        img:"https://cf.shopee.co.id/file/1cd54e08f8a20723b239e923b62510af"
+    },
+]
